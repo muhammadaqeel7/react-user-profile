@@ -57,36 +57,40 @@
   .fa-facebook-f {
     color: #15a4fa;
     transition: all 0.5s;
+    font-size: 19px;
 
     &:hover {
-      transform: scale(1.2);
+      transform: scale(1.1);
     }
   }
 
   .fa-instagram {
     color: #9331c5;
     transition: all 0.5s;
+    font-size: 19px;
 
     &:hover {
-      transform: scale(1.2);
+      transform: scale(1.1);
     }
   }
 
   .fa-linkedin {
     color: #0a66c2;
     transition: all 0.5s;
+    font-size: 19px;
 
     &:hover {
-      transform: scale(1.2);
+      transform: scale(1.1);
     }
   }
 
   .fa-twitter {
     color: #1d9bf0;
     transition: all 0.5s;
+    font-size: 19px;
 
     &:hover {
-      transform: scale(1.2);
+      transform: scale(1.1);
     }
   }
 }
